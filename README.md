@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 My name is Giovana <br> Welcome to my profile!</h2>
 
-###
+#
 
 <div align="center">
   <h2>My Stats</h2>
@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gibudripuc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+#
 
 <div align="left">
   <h2>Github Stacks</h2>
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+#
 
 <div align="left">
   📫 Connect with me! <br><br>
@@ -43,8 +43,12 @@
   </a>
 </div>
 
-###
+#
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gibudripuc/gibudripuc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gibudripuc/gibudripuc/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 
