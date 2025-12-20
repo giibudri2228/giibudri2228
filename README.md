@@ -2,7 +2,7 @@
 
 **Desenvolvedora em formação | Análise de Dados | Sistemas de Informação**
 
-✨ Bem-vindo(a) ao meu GitHub!  
+Bem-vindo(a) ao meu GitHub!  
 Aqui você encontra meus projetos, estudos e minha evolução na área de tecnologia.
 
 ---
@@ -36,7 +36,7 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 - 🎓 Estudante de **Sistemas de Informação**
 - 🌱 Atualmente aprendendo: **Python, Banco de Dados, JavaScript e Git Flow**
@@ -46,7 +46,7 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
 
 ---
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 
 | Linguagens | Ferramentas | Versionamento |
 |----------|------------|---------------|
