@@ -52,8 +52,9 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
 |----------|------------|---------------|
 | Python 🐍 | VS Code 💙 | Git / GitHub 🔗 |
 | JavaScript ⚡ | MySQL 🐬 | Git Flow 🌱 |
-| HTML / CSS 🎨 | Node.js 🟩 | |
-| C 🧑‍💻 | Jupyter Notebook 📓 | |
+| C  👩‍💻  | Node.js 🟩 | 
+           | Jupyter Notebook 📓 | 
+           | HTML / CSS 🎨 |
 
 ---
 
