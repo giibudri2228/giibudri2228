@@ -46,15 +46,16 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
 
 ---
 
-## Stack Técnica
+## 🧰 Stack Técnica
 
-| Linguagens        | Ferramentas           | Versionamento        |
-|-------------------|-----------------------|----------------------|
-| Python 🐍         | VS Code 💙            | Git / GitHub 🔗      |
-| JavaScript ⚡     | MySQL 🐬              | Git Flow 🌱          |
-| C 👩‍💻            | Node.js 🟩             | —                    |
-| —                 | Jupyter Notebook 📓   | —                    |
-| —                 | HTML / CSS 🎨         | —                    |
+| Linguagens        | Ferramentas & Tecnologias | Versionamento |
+|-------------------|---------------------------|---------------|
+| Python 🐍         | Pandas 📊                 | Git / GitHub 🔗 |
+| JavaScript ⚡     | Streamlit 🚀              | Git Flow 🌱 |
+| C 👩‍💻            | MySQL 🐬                  | — |
+| —                 | Jupyter Notebook 📓       | — |
+| —                 | VS Code 💙                | — |
+| —                 | HTML / CSS 🎨             | — |
 
 ---
 
