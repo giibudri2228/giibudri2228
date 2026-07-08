@@ -20,17 +20,6 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
   />
 </div>
 
----
-
-## Sobre Mim
-
-- 🎓 Estudante de **Sistemas de Informação**
-- 🌱 Atualmente aprendendo: **Python, Banco de Dados, JavaScript e Git Flow**
-- 🚀 Objetivo: conquistar meu **primeiro estágio em TI**
-- 💡 Interesse em desenvolvimento de sistemas e análise de dados  
-- 📚 Sempre buscando aprender e evoluir tecnicamente
-
----
 
 ## 🧰 Stack Técnica
 
