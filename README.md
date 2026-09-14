@@ -25,13 +25,13 @@ Aqui você encontra meus projetos, estudos e minha evolução na área de tecnol
 
 | Linguagens        | Ferramentas & Tecnologias | Versionamento |
 |-------------------|---------------------------|---------------|
-| Python 🐍         | Pandas 📊                 | Git / GitHub 🔗 |
-| JavaScript ⚡     | Streamlit 🚀              | Git Flow 🌱 |
-| C 👩‍💻            | MySQL 🐬                  | — |
-| —                 | Jupyter Notebook 📓       | — |
-| —                 | Anaconda 🐍               | — |
-| —                 | VS Code 💙                | — |
-| —                 | HTML / CSS 🎨             | — |
+| Python            | Pandas                 | Git / GitHub |
+| JavaScript        | Streamlit              | Git Flow |
+| C                 | MySQL                  | — |
+| Java              | Jupyter Notebook       | — |
+| —                 | Anaconda               | — |
+| —                 | VS Code                | — |
+| —                 | HTML / CSS             | — |
 
 ---
 
